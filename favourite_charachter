@@ -3,5 +3,5 @@ if(favChar == "Peter Gruiffin" ){
 }
 else
 {
-	print "Peter Griffin is better";
+	print "Peter Griffin is the best!!!";
 }
