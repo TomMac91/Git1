@@ -1,7 +1,0 @@
-if(favChar == "Homer Simpson" ){
-	print "You have chosen my favourite charachter too!!!";
-}
-else
-{
-	print "Homer Simpson is better";
-}
