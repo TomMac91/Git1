@@ -1,0 +1,7 @@
+if(favChar == "Peter Gruiffin" ){
+	print "You have chosen my favourite charachter too!!!";
+}
+else
+{
+	print "Peter Griffin is the best!!!";
+}
